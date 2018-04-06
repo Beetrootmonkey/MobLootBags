@@ -1,0 +1,3 @@
+[ ] Draw lootbags for every mob
+[ ] Add lootbags for every mob ingame (each one needs to point to the mob's loottable)
+[ ] Implement opening (generate items based on loottable)
